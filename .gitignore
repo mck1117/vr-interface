@@ -24,7 +24,9 @@ fp-info-cache
 # Exported BOM files
 *.xml
 
-
+# LTSpice outputs
+*.raw
+*.log
 
 # Mac stuff
 # General
